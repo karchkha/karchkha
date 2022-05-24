@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karchkha
-- 👀 I’m interested in Sound synthesis and music generation with Deep Learning
+- 👀 I’m interested in sound synthesis and music generation with Deep Learning
 - 🌱 I’m currently pursuing my PHD in computer music
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tkarchkhadze (at) ucsd.edu
